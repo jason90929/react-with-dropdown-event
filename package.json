@@ -18,5 +18,8 @@
   "peerDependencies": {
     "prop-types": "^15",
     "react": "^16 || ^17"
+  },
+  "dependencies": {
+    "create-react-class": "^15.7.0"
   }
 }
