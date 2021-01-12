@@ -1,0 +1,22 @@
+{
+  "name": "react-with-dropdown-event",
+  "version": "1.0.0",
+  "description": "React use dropdown with my events to custom control open/close on your component UI",
+  "main": "index.js",
+  "author": "Jason Tseng",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jason90929/react-with-dropdown-event.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "dropdown",
+    "high-order-component",
+    "react"
+  ],
+  "peerDependencies": {
+    "prop-types": "^15",
+    "react": "^16 || ^17"
+  }
+}
